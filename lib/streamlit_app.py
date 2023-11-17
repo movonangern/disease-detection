@@ -13,7 +13,7 @@ def create_sidebar():
 # Hauptfunktion, die die Streamlit-Seite ausführt
 def main():
     # Modell laden
-    model = load_model('C:\\Users\\moritz.von.angern.INT\\OneDrive - HWR Berlin\\Coding\\Deep Learning Project\\model\\v1')
+    model = load_model("model/v1")
 
 
     # Streamlit-Seiteneinstellungen
