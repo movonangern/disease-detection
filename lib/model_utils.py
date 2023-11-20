@@ -4,6 +4,7 @@ from PIL import Image
 
 MODEL_PATH = "model/v1"
 
+# Constants
 IMAGE_SIZE = (256, 256)
 CLASS_NAMES = ['Potato___Early_blight', 'Potato___Late_blight', 'Potato___healthy']
 
